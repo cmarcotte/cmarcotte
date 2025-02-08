@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cmarcotte
 - 👀 I’m interested in computational physics, pattern formation, dynamical systems, high-performance computing, computational efficiency, and frequently where these topics intersect with cardiac dynamics.
-- 🌱 I’m currently learning about Global Sensitivity Analysis methods.
 - 💞️ I’m looking to collaborate on high-performance computing approaches to novel cardiac problems.
 - 📫 How to reach me: at "christopher dot marcotte at durham dot ac dot uk".
 
